@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "0951d7ed6847c1fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "259ad8650d000de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b418444db46dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Title Bar Submenus.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b099ca0b7ad37444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Title Bar Submenus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7b1bd9518c04bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e00d7a3edb9c6aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0fbd547f351ca1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "488dd57e4fb377a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "562004475a91dc76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8aa6ccbec60d648b",
+    "type": "split",
+    "children": [
+      {
+        "id": "74802fd09e0cc5de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46eeaf1ff3d33148",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Custom Title Bar Submenus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5056cd2087f4cdc0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Custom Title Bar Submenus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "946a972318ff13ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75773c88d1ba3c54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Custom Title Bar Submenus.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b099ca0b7ad37444",
+  "lastOpenFiles": [
+    "Custom Show Flags.md",
+    "Custom Title Bar Submenus.md",
+    "Custom Windows.md",
+    "Images/MainMenuImage.png",
+    "Images/SectionsImage.png",
+    "Images",
+    "Welcome.md"
+  ]
+}
