@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "259ad8650d000de5",
+        "id": "f4783b351d4f7ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "18b418444db46dad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Title Bar Submenus.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b099ca0b7ad37444",
+            "id": "4e6394e3da1d1cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b099ca0b7ad37444",
+  "active": "4e6394e3da1d1cae",
   "lastOpenFiles": [
-    "Custom Show Flags.md",
-    "Custom Windows.md",
+    "Images.md",
     "Custom Title Bar Submenus.md",
+    "Custom Windows.md",
+    "Images 1.md",
+    "Custom Show Flags.md",
+    "README.md",
     "Images/MainMenuImage.png",
     "Images/SectionsImage.png",
     "Images",

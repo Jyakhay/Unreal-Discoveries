@@ -1,4 +1,4 @@
-![[Images/MainMenuImage.png]]
+![](Images/MainMenuImage.png)
 The bar at the top of Unreal containing the menus above is referred to as the Main Menu within the engine. 
 
 The main menu can be extended to have custom submenus through the UToolMenus module as so:
@@ -16,7 +16,7 @@ UToolMenu* CustomSubMenu = MainMenu->AddSubMenu
 
 Main menu extensions are typically done through a module struct, within StartupModule().
 ## Sections
-![[Images/SectionsImage.png]]
+![](Images/SectionsImage.png)
 Submenus are split into multiple sections as seen in the image above, the sections are:
 - Open
 - Save
